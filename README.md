@@ -7,7 +7,7 @@
 ## :waxing_crescent_moon: Software Engineer. Clinical Pharmacist. Cat Collector :last_quarter_moon:
 </div>
 
-### I'm a full stack dev looking to explore the industry, both design and backend. I'm especially passionate about research and pharmaceutical development. :pill: :syringe: :satellite:
+### I'm a pharmacist turned full stack software engineer looking to explore the industry, both design and backend. I'm especially passionate about research and pharmaceutical development. :pill: :syringe: :satellite:
 <br>
 <details>
 
