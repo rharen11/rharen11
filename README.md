@@ -1,10 +1,10 @@
-<img src="https://user-images.githubusercontent.com/98659001/185225491-e90509c6-38f0-4422-ad51-7e8ac7e9fd0d.png" style="border-radius:50%">
+<img src="https://user-images.githubusercontent.com/98659001/185225491-e90509c6-38f0-4422-ad51-7e8ac7e9fd0d.png">
 
 <div align="center">
 
 ## :waxing_crescent_moon: Software Engineer. Clinical Pharmacist. Cat Collector :waning_crescent_moon:
 
-<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=150px style="border-radius:50%"/></a>
+<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=100px/></a>
 
 </div>
 
