@@ -20,7 +20,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rharen11&theme=tokyonight)](https://git.io/streak-stats)
 
-![RachelKinzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rharen11&show_icons=true&theme=radical)
+![RachelKinzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rharen11&show_icons=true&theme=tokyonight)
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
