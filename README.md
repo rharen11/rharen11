@@ -1,14 +1,14 @@
-<img src="https://user-images.githubusercontent.com/98659001/185218930-a7bee977-232f-4d29-a623-bfc2544af56b.jpg" width=1200px height=400px>
+<img src="https://user-images.githubusercontent.com/98659001/185225491-e90509c6-38f0-4422-ad51-7e8ac7e9fd0d.png" style="border-radius:50%">
 
 <div align="center">
 
 ## :waxing_crescent_moon: Software Engineer. Clinical Pharmacist. Cat Collector :waning_crescent_moon:
 
-<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=150px/></a>
+<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=150px style="border-radius:50%"/></a>
 
 </div>
 
-### I'm a pharmacist turned full stack software engineer looking to explore the industry, both design and backend. I'm especially passionate about research and pharmaceutical development. :pill: :syringe: :satellite:
+### I'm a pharmacist turned full stack software engineer. I'm exploring both front and backend technologies, there's so much to explore in both arenas! I'm especially passionate about research and pharmaceutical development. :pill: :syringe: :satellite:
 <br>
 <details>
 
