@@ -13,8 +13,6 @@
 
 [LinkedIn](https://www.linkedin.com/in/rachel-kinzel-97773a9b/)
 <br>
-[Resume](https://docs.google.com/document/d/1uAZTpL2Jr2TTLryQ_Ewn1_XWahJ0WjYIpICPmqbV_X0/edit?usp=sharing)
-
 </details>
 <br>
 
