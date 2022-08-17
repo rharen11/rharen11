@@ -1,6 +1,6 @@
-<div align="center">
+<img src="https://user-images.githubusercontent.com/98659001/185218930-a7bee977-232f-4d29-a623-bfc2544af56b.jpg" width=1200px height=400px>
 
-# :full_moon_with_face: I'm Rachel, thanks for stopping by! :sun_with_face:
+<div align="center">
 
 <a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=200px/></a>
 
