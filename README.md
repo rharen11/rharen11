@@ -1,7 +1,11 @@
+<div align="center">
+
 # I'm Rachel, Hi 👋
+<br>
 [![MasterHead](your image link)](your GitHub link)
 
 ## Software Engineer. Clinical Pharmacist. Cat Collector. 
+</div>
 
 ### I'm a full stack dev looking to explore the industry, both design and backend. I'm especially passionate about research and pharmaceutical development. 
 
