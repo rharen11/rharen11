@@ -2,9 +2,10 @@
 
 <div align="center">
 
-<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=200px/></a>
-
 ## :waxing_crescent_moon: Software Engineer. Clinical Pharmacist. Cat Collector :waning_crescent_moon:
+
+<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=150px/></a>
+
 </div>
 
 ### I'm a pharmacist turned full stack software engineer looking to explore the industry, both design and backend. I'm especially passionate about research and pharmaceutical development. :pill: :syringe: :satellite:
