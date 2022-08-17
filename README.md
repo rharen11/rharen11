@@ -1,8 +1,7 @@
 <div align="center">
 
 # I'm Rachel, Hi 👋
-<br>
-[![MasterHead](your image link)](your GitHub link)
+<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=200px /></a>
 
 ## Software Engineer. Clinical Pharmacist. Cat Collector. 
 </div>
