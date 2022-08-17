@@ -1,8 +1,12 @@
 # I'm Rachel, Hi 👋
+[![MasterHead](your image link)](your GitHub link)
 
 ## Software Engineer. Clinical Pharmacist. Cat Collector. 
 
 ### I'm a full stack dev looking to explore the industry, both design and backend. I'm especially passionate about research and pharmaceutical development. 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rharen11)](https://git.io/streak-stats)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rharen11)](https://github.com/anuraghazra/github-readme-stats)
 
