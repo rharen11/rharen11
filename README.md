@@ -1,12 +1,13 @@
 <div align="center">
 
-# I'm Rachel, Hi 👋
-<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=200px /></a>
+# :full_moon_with_face: I'm Rachel, thanks for stopping by! :sun_with_face:
 
-## Software Engineer. Clinical Pharmacist. Cat Collector. 
+<a href="https://imgur.com/tIMMfxK"><img src="https://i.imgur.com/tIMMfxK.jpg" title="source: imgur.com" width=200px/></a>
+
+## :waxing_crescent_moon: Software Engineer. Clinical Pharmacist. Cat Collector :last_quarter_moon:
 </div>
 
-### I'm a full stack dev looking to explore the industry, both design and backend. I'm especially passionate about research and pharmaceutical development. 
+### I'm a full stack dev looking to explore the industry, both design and backend. I'm especially passionate about research and pharmaceutical development. :pill: :syringe: :satellite:
 <br>
 <details>
 
@@ -17,10 +18,11 @@
 </details>
 <br>
 
+<div align="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rharen11&theme=tokyonight)](https://git.io/streak-stats)
 
 ![RachelKinzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rharen11&show_icons=true&theme=radical)
-
 
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -44,5 +46,7 @@
 ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
 
 
