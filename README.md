@@ -8,7 +8,7 @@
 
 </div>
 
-### I'm a pharmacist turned full stack software engineer. I'm exploring both front and backend technologies, there's so much to explore in both arenas! I'm especially passionate about research and pharmaceutical development. :pill: :syringe: :satellite:
+### I'm a pharmacist turned full stack software engineer. I'm partial to both front and backend technologies, there's so much to explore in both arenas! I'm particularly passionate about research and pharmaceutical development, as well. :pill: :syringe: :satellite:
 <br>
 <details>
 
